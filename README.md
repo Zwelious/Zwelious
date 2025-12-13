@@ -22,7 +22,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FB503C?style=flat&logo=laravel&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zwelious)
 
 ## 💼 Currently Hiring?
 **Open to iOS, AI Engineer, and Product Manager roles**  
