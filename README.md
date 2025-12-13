@@ -26,6 +26,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Zwelious&theme=github_dark)
 
 ## 💼 Currently Hiring?
-**Open to iOS, AI Engineer, and Product Manager roles**  
+*Open to iOS, AI Engineer, and Product Manager roles* 
 ---
 ⭐️ *From [LinkedIn](https://linkedin.com/in/alfredhans)*
