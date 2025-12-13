@@ -2,7 +2,7 @@
   
 # Hi there, I'm Alfred Hans 👋
 
-**Technical Founder & CEO @ Vlowzy/AIVA**  
+**Co-Founder & CEO @ Vlowzy AI, Building AiVA for Business**  
 *Building AI-powered systems, agents, and SaaS businesses to scale, increase efficiency, customer experience, and revenue.*
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/alfredhans?style=social)](https://twitter.com/alfredhans)
@@ -10,10 +10,10 @@
 </div>
 
 ## 🚀 What I'm Building
+- **AI Agents and Automations** for smart systems, automating complex workflows, and many more. (N8N, Make, Python & JS)
 - **AIVA** - AI business assistant iOS app for online sellers (soon in AppStore)
 - **7+ iOS apps** with SwiftUI and other Apple Frameworks
 - **Full-stack SaaS** (TypeScript, Supabase, Vercel)
-- **AI Agents** with N8N, Make, Python & JS for smart systems, automating complex workflows, and many more.
 
 ## 🛠️ Tech Stack
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05148?style=flat&logo=swift&logoColor=white)
