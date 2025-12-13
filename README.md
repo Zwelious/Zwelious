@@ -22,9 +22,9 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FB503C?style=flat&logo=laravel&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zwelious&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zwelious&layout=compact&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Zwelious&theme=github_dark)
 
 ## 💼 Currently Hiring?
 **Open to iOS, AI Engineer, and Product Manager roles**  
