@@ -22,7 +22,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FB503C?style=flat&logo=laravel&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zwelious&show_icons=true&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Zwelious&theme=github_dark)
 
 ## 💼 Currently Hiring?
