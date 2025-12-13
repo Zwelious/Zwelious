@@ -21,9 +21,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FB503C?style=flat&logo=laravel&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zwelious&show_icons=true&count_private=true&theme=github_dark)
-
 ## 💼 Currently Hiring?
 **Open to iOS, AI Engineer, and Product Manager roles**  
 ---
