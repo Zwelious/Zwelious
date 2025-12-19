@@ -2,7 +2,7 @@
   
 # Hi there, I'm Alfred Hans 👋
 
-**Co-Founder & CEO @ Vlowzy AI, Building AiVA for Business**  
+**Co-Founder @ Vlowzy AI, Building AiVA for Business**  
 *Building AI-powered systems, agents, and SaaS businesses to scale, increase efficiency, customer experience, and revenue.*
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/alfredhans?style=social)](https://twitter.com/alfredhans)
