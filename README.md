@@ -3,7 +3,9 @@
 # Hi there, I'm Alfred Hans 👋
 
 **AI Solutions Architect @ axrail.ai**
+
 *Building AWS-based AI solutions for multi-national clients, building an AI-FinOps product*
+
 **Co-Founder @ Vlowzy AI, Building AiVA for Business**  
 *Building AI-powered systems, agents, and SaaS businesses to scale, increase efficiency, customer experience, and revenue.*
 
