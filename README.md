@@ -2,6 +2,8 @@
   
 # Hi there, I'm Alfred Hans 👋
 
+**AI Solutions Architect @ axrail.ai**
+*Building AWS-based AI solutions for multi-national clients, building an AI-FinOps product*
 **Co-Founder @ Vlowzy AI, Building AiVA for Business**  
 *Building AI-powered systems, agents, and SaaS businesses to scale, increase efficiency, customer experience, and revenue.*
 
@@ -10,6 +12,7 @@
 </div>
 
 ## 🚀 What I'm Building
+- **KIP.ai** as a global pioneer in AI Financial Operations assistant for financial admins (gokip.ai)
 - **AI Agents and Automations** for smart systems, automating complex workflows, and many more. (N8N, Make, Python & JS)
 - **AIVA** - AI business assistant iOS app for online sellers (soon in AppStore)
 - **7+ iOS apps** with SwiftUI and other Apple Frameworks
